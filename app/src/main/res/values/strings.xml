@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+    <string name="clear">C</string>
+    <string name="exponent">^</string>
+    <string name="percent">%</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="plusMinus">±</string>
+    <string name="point">.</string>
+    <string name="equals">=</string>
+
+    <string name="display">0</string>
+    <string name="openParentheses">Cowculator</string>
+    <string name="memCall">mc</string>
+    <string name="memAdd">m+</string>
+    <string name="memSub">m-</string>
+    <string name="memRecall">mr</string>
+    <string name="shift">|x|</string>
+    <string name="square">x²</string>
+    <string name="cube">x³</string>
+    <string name="yExp">x^y</string>
+    <string name="ePower">e^x</string>
+    <string name="tenPower">10^x</string>
+    <string name="reciprocal">1/x</string>
+    <string name="squareRoot">√x</string>
+    <string name="cubeRoot">∛x</string>
+    <string name="yRoot">y√x</string>
+    <string name="ln">ln</string>
+    <string name="log">log10</string>
+    <string name="factorial">x!</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="e">e</string>
+    <string name="ee">EE</string>
+    <string name="rad">Hex</string>
+    <string name="sinh">sin-1</string>
+    <string name="cosh">cos-1</string>
+    <string name="tanh">tan-1</string>
+    <string name="pi">π</string>
+    <string name="rand">Rand</string>
+
+    shift buttons
+    <string name="sin1">sinh-</string>
+    <string name="cos1">cosh-</string>
+    <string name="tan1">tanh-</string>
+    <string name="sinh1">sinh-</string>
+    <string name="cosh1">cosh-</string>
+    <string name="tanh1">tanh-</string>
+    <string name="yPower">y^x</string>
+    <string name="twoPower">2^x</string>
+    <string name="logy">logy</string>
+    <string name="log2">log2</string>
+
+
+
+
+
+
+</resources>
